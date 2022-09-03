@@ -182,6 +182,7 @@ function App() {
         borderWidth: 4,
         tension: 0.2,
         pointRadius: 0,
+        pointHitRadius: 8,
         pointHoverRadius: 4,
         pointHoverBackgroundColor: '#FFFFFF',
         pointHoverBorderColor: '#2C55EB',
